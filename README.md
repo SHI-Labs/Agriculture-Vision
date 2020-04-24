@@ -5,16 +5,21 @@ Agriculture-Vision Dataset, Challenge and Workshop (CVPR 2020)
 ## Content
 
 - [Papers](#papers)
-- [Challenge](#challenge)
+- [Dataset](#dataset)
     * [Agriculture-Vision Challenge dataset](#agriculture-vision-challenge-dataset)
-    * [Evaluation metric](#evaluation-metric)
+    * [Download](#download)
+- [Evaluation](#evaluation)
+    * [Evaluation Metric](#evaluation-metric)
     * [Submission](#submission)
+- [Challenge](#challenge)
     * [Methods](#methods)
     * [Leaderboard](#leaderboard)
+    * [Teams](#teams)
 - [Workshop](#workshop)
     * [Paper track](#paper-track)
     * [Topic description](#topic-description)
-    * [IMPORTANT DATES](#important-dates)
+    * [Accepted Papers](#accepted-papers)
+    * [Accepted Posters](#accepted-posters)
 
 ## Papers:
 CVPR paper on Agriculture-Vision
@@ -196,9 +201,7 @@ The Workshop will be open to the broader community addressing **various technica
 - Robust and stable pattern recognition on sparse and imbalanced annotations
 - Other novel vision applications in agriculture
 
-### Accepted Papers and Posters
-
-#### Accepted Papers
+### Accepted Papers
 
 [1] **Effective Data Fusion with Generalized Vegetation Index: Evidence from Land Cover Segmentation in Agriculture**, Hao Sheng,
 Xiao Chen, Jingyi Su, Ram Rajagopal, Andrew Ng *(Stanford University) [Link]*
