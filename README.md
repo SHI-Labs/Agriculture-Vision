@@ -25,8 +25,8 @@ CVPR Workshop paper on the 1st Agriculture-Vision Challenge (challenge dataset, 
 ## Challenge
 ### Agriculture-Vision Challenge Dataset
 
-<img src="cs.gif" width="320" title="Cloud shadow"> <img src="dp.gif" width="320" title="Double plant"> <img src="ps.gif" width="320" title="Planter skip">
-<img src="sw.gif" width="320" title="Standing water"> <img src="ww.gif" width="320" title="Waterway"> <img src="wc.gif" width="320" title="Weed cluster">
+<img src="images/cs.gif" width="300" title="Cloud shadow"> <img src="images/dp.gif" width="300" title="Double plant"> <img src="images/ps.gif" width="300" title="Planter skip">
+<img src="images/sw.gif" width="300" title="Standing water"> <img src="images/ww.gif" width="300" title="Waterway"> <img src="images/wc.gif" width="300" title="Weed cluster">
 
 The dataset used in this challenge is a subset of the [Agriculture-Vision dataset](https://arxiv.org/abs/2001.01306). The challenge dataset contains 21,061 aerial farmland images captured throughout 2019 across the US. Each image consists of four 512x512 color channels, which are RGB and Near Infra-red (NIR). Each image also has a boundary map and a mask. The boundary map indicates the region of the farmland, and the mask indicates valid pixels in the image. Regions outside of either the boundary map or the mask are not evaluated.
 
@@ -41,7 +41,7 @@ The challenge dataset contains images, boundaries and masks for train, val and t
 
 We use mean Intersection-over-Union (mIoU) as our main quantitative evaluation metric, which is one of the most commonly used measures in semantic segmentation datasets. The mIoU is computed as:
 
-<img src="metric.png">
+<img src="images/metric.png">
 
 Where **c** is the number of annotation types (**c** = 7 in our dataset, with 6 patterns + background), P<sub>c</sub> and T<sub>c</sub> are the predicted mask and ground truth mask of class c respectively.
 
