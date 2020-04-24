@@ -12,9 +12,8 @@ Agriculture-Vision Dataset, Challenge and Workshop (CVPR 2020)
     * [Evaluation Metric](#evaluation-metric)
     * [Submission](#submission)
 - [Challenge](#challenge)
-    * [Teams & Methods](#teams-&-methods)
+    * [Teams and Methods](#teams-and-methods)
     * [Leaderboard](#leaderboard)
-    * [Teams](#teams)
 - [Workshop](#workshop)
     * [Paper track](#paper-track)
     * [Topic description](#topic-description)
@@ -130,16 +129,16 @@ To be considered as a valid submission for the prize reward, all submissions mus
 </b>
 The prize award will be granted to the top 3 teams on the leaderboard that provide a valid final submission.
 
-### Teams & Methods
+### Teams and Methods
 
 Please refer to our [workshop summary paper](https://arxiv.org/abs/2004.09754) for more details regarding notable methods.
 Selected teams & methods:
 
 **Team Hyunseong**: Hyunseong Park, Junhee Kim, Sungho Kim *(Agency for Defense Development, South Korea)*
-**Method**: Residual DenseNet with Expert Network for Semantic Segmentation [Link]
+- **Method**: Residual DenseNet with Expert Network for Semantic Segmentation [Link]
 
 **Team Hyunseong**: Hyunseong Park, Junhee Kim, Sungho Kim *(Agency for Defense Development, South Korea)*
-**Method**: Residual DenseNet with Expert Network for Semantic Segmentation [Link]
+- **Method**: Residual DenseNet with Expert Network for Semantic Segmentation [Link]
 
 ### Leaderboard
 
