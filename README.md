@@ -40,5 +40,7 @@ CVPR Workshop paper on the 1st Agriculture-Vision Challenge (challenge dataset, 
 ## Workshop
 (To be updated)
 
+### Accepted Papers and Posters
+(To be updated)
 
 
