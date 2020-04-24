@@ -12,7 +12,7 @@ Agriculture-Vision Dataset, Challenge and Workshop (CVPR 2020)
     * [Evaluation Metric](#evaluation-metric)
     * [Submission](#submission)
 - [Challenge](#challenge)
-    * [Methods](#methods)
+    * [Teams & Methods](#teams-&-methods)
     * [Leaderboard](#leaderboard)
     * [Teams](#teams)
 - [Workshop](#workshop)
@@ -130,9 +130,16 @@ To be considered as a valid submission for the prize reward, all submissions mus
 </b>
 The prize award will be granted to the top 3 teams on the leaderboard that provide a valid final submission.
 
-### Methods
+### Teams & Methods
 
-Please refer to our [workshop summary paper](https://arxiv.org/abs/2004.09754) for details regarding notable methods.
+Please refer to our [workshop summary paper](https://arxiv.org/abs/2004.09754) for more details regarding notable methods.
+Selected teams & methods:
+
+**Team Hyunseong**: Hyunseong Park, Junhee Kim, Sungho Kim *(Agency for Defense Development, South Korea)*
+**Method**: Residual DenseNet with Expert Network for Semantic Segmentation [Link]
+
+**Team Hyunseong**: Hyunseong Park, Junhee Kim, Sungho Kim *(Agency for Defense Development, South Korea)*
+**Method**: Residual DenseNet with Expert Network for Semantic Segmentation [Link]
 
 ### Leaderboard
 
@@ -178,9 +185,6 @@ Please refer to our [workshop summary paper](https://arxiv.org/abs/2004.09754) f
 |dvkhandelwal|16.3|71.5|0.0|0.0|0.0|42.6|0.0|0.0|
 |ajeetsinghiitd|10.3|56.9|00.2|00.4|0.0|0.0|00.1|14.5|
 
-### Teams
-**Team Hyunseong**: hyunseong Park, Junhee Kim, Sungho Kim *(Agency for Defense Development, South Korea)*
-
 ## Workshop
 
 ### Paper Track
@@ -202,6 +206,9 @@ The Workshop will be open to the broader community addressing **various technica
 - Other novel vision applications in agriculture
 
 ### Accepted Papers
+
+[1] **Effective Data Fusion with Generalized Vegetation Index: Evidence from Land Cover Segmentation in Agriculture**, Hao Sheng,
+Xiao Chen, Jingyi Su, Ram Rajagopal, Andrew Ng *(Stanford University) [Link]*
 
 [1] **Effective Data Fusion with Generalized Vegetation Index: Evidence from Land Cover Segmentation in Agriculture**, Hao Sheng,
 Xiao Chen, Jingyi Su, Ram Rajagopal, Andrew Ng *(Stanford University) [Link]*
