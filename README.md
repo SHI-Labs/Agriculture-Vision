@@ -49,7 +49,7 @@ This dataset contains six types of annotations: Cloud shadow, Double plant, Plan
 Each field image has a file name in the format of (**field id**)_(**x1**)-(**y1**)-(**x2**)-(**y2**).(**jpg**/**png**). Each field id uniquely identifies the farmland that the image is cropped from, and (x1, y1, x2, y2) is a 4-tuple indicating the position in which the image is cropped. Please refer to our paper for more details regarding how we construct the dataset.
 #### Download
 
-The challenge dataset contains images, boundaries and masks for train, val and test set. It also contains labels for the train and val set only. The dataset .tar.gz file is around 4.4 GB. [Dataset terms](https://www.agriculture-vision.com/dataset-terms) can be found here. Please [contact us](https://www.agriculture-vision.com/contact-us) to get access.
+The challenge dataset contains images, boundaries and masks for train, val and test set. It also contains labels for the train and val set only. The dataset .tar.gz file is around 4.4 GB. Please [contact us](https://www.agriculture-vision.com/contact-us) to get access.
 
 ### Evaluation metric
 
@@ -204,3 +204,13 @@ Please feel free to [contact us](https://www.agriculture-vision.com/contact-us) 
 - Challenge reports submission by email: April 15, 2020 (11:59 PDT)
 - Challenge results submission deadline: April 20, 2020 (10:00 AM PDT)
 - Challenge awards announcement, prize winners presentations, June 14, 2020
+
+### Accepted Papers and Posters
+
+#### Accepted Papers
+
+[1] Effective Data Fusion with Generalized Vegetation Index: Evidence from Land Cover Segmentation in Agriculture, Hao Sheng,
+Xiao Chen, Jingyi Su, Ram Rajagopal, Andrew Ng (Stanford University) [Link]
+
+### Accepted Posters
+
