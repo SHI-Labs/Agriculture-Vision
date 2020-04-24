@@ -2,6 +2,20 @@
 
 Agriculture-Vision Dataset, Challenge and Workshop (CVPR 2020)
 
+## Content
+
+- [Papers](#papers)
+- [Challenge](#challenge)
+    * [Agriculture-Vision Challenge dataset](#agriculture-vision-challenge-dataset)
+    * [Evaluation metric](#evaluation-metric)
+    * [Submission](#submission)
+    * [Methods](#methods)
+    * [Leaderboard](#leaderboard)
+- [Workshop](#workshop)
+    * [Paper track](#paper-track)
+    * [Topic description](#topic-description)
+    * [IMPORTANT DATES](#important-dates)
+
 ## Papers:
 CVPR paper on Agriculture-Vision
 ```BibTex
@@ -37,7 +51,7 @@ Each field image has a file name in the format of (**field id**)_(**x1**)-(**y1*
 
 The challenge dataset contains images, boundaries and masks for train, val and test set. It also contains labels for the train and val set only. The dataset .tar.gz file is around 4.4 GB. [Dataset terms](https://www.agriculture-vision.com/dataset-terms) can be found here. Please [contact us](https://www.agriculture-vision.com/contact-us) to get access.
 
-### Evaluation Metric
+### Evaluation metric
 
 We use mean Intersection-over-Union (mIoU) as our main quantitative evaluation metric, which is one of the most commonly used measures in semantic segmentation datasets. The mIoU is computed as:
 
