@@ -36,8 +36,7 @@ CVPR Workshop paper on the 1st Agriculture-Vision Challenge (challenge dataset, 
 }
 ```
 
-## Challenge
-### Agriculture-Vision Challenge Dataset
+## Agriculture-Vision Challenge Dataset
 
 <img src="images/cs.gif" width="300" title="Cloud shadow"> <img src="images/dp.gif" width="300" title="Double plant"> <img src="images/ps.gif" width="300" title="Planter skip">
 <img src="images/sw.gif" width="300" title="Standing water"> <img src="images/ww.gif" width="300" title="Waterway"> <img src="images/wc.gif" width="300" title="Weed cluster">
@@ -47,9 +46,11 @@ The dataset used in this challenge is a subset of the [Agriculture-Vision datase
 This dataset contains six types of annotations: Cloud shadow, Double plant, Planter skip, Standing Water, Waterway and Weed cluster. These types of field anomalies have great impacts on the potential yield of farmlands, therefore it is extremely important to accurately locate them. In the Agriculture-Vision dataset, these six patterns are stored separately as binary masks due to potential overlaps between patterns. Users are free to decide how to use these annotations.
 
 Each field image has a file name in the format of (**field id**)_(**x1**)-(**y1**)-(**x2**)-(**y2**).(**jpg**/**png**). Each field id uniquely identifies the farmland that the image is cropped from, and (x1, y1, x2, y2) is a 4-tuple indicating the position in which the image is cropped. Please refer to our paper for more details regarding how we construct the dataset.
-#### Download
+### Download
 
 The challenge dataset contains images, boundaries and masks for train, val and test set. It also contains labels for the train and val set only. The dataset .tar.gz file is around 4.4 GB. Please [contact us](https://www.agriculture-vision.com/contact-us) to get access.
+
+## Challenge
 
 ### Evaluation metric
 
