@@ -16,7 +16,6 @@ Agriculture-Vision Dataset, Challenge and Workshop (CVPR 2020)
     * [Leaderboard](#leaderboard)
 - [Workshop](#workshop)
     * [Paper track](#paper-track)
-    * [Topic description](#topic-description)
     * [Accepted Papers](#accepted-papers)
     * [Accepted Posters](#accepted-posters)
 
@@ -104,21 +103,7 @@ All teams can have 2 submissions per day and 20 submissions in total.
 
 ## Challenge
 
-### Final submission and prize reward
-The Codalab leaderboard will be closed after the deadline. Top-tier teams will be invited through email to provide their final submission for the prize reward. The final submission will be a compressed **.zip** file that contains the following materials:
-
-<pre><b>submission/
-    results/
-        (field id #1)_(x1)-(y1)-(x2)-(y2).png</b>   (label predictions that matche the best mIoU on the leaderboard)<b>
-        (field id #2)_(x1)-(y1)-(x2)-(y2).png
-        ... etc.
-    code/ </b>                                      (the training and inference code for the method)<b>
-    models/ </b>                                    (pretrained model (if applicable) and the final model)<b>
-    challenge_report.pdf</b>                        (detailed description of the method)</pre>
-
-Note: Submission terms can be found [here](https://www.agriculture-vision.com/submission-terms).
-
-To be considered as a valid submission for the prize reward, all submissions must satisfy the following requirements:
+We hosted the 1st Agriculture-Vision Prize Challenge with the following terms:
 
 - <b>Model size will be limited below 150M parameters in total.</b>
 - <b>The mIoU derived from the "results/" folder in the final submission should match the mIoU on the leaderboard.</b>
@@ -127,7 +112,7 @@ To be considered as a valid submission for the prize reward, all submissions mus
 - <b>The test set is off-limits in training.</b>
 - <b>For fairness, teams need to specify what public datasets are used for training/pre-training their models in their challenge_ report.pdf. Results that are generated from models using private datasets, and results without such details will be excluded from prize evaluation. (Results using private datasets can still be included in the report.)</b>
 </b>
-The prize award will be granted to the top 3 teams on the leaderboard that provide a valid final submission.
+The prize award will be granted to the top 3 teams on the prize challenge leaderboard (closed on 4/20/2020) that provide a valid final submission.
 
 ### Teams and Methods
 
@@ -192,7 +177,7 @@ Selected teams & methods:
 - All accepted paper will be published in IEEE CVPR 2020 Workshop Proceedings. 
 - Several top accepted papers will be given oral presentation opportunity at our workshop, the rest accepted papers will be given poster presentation slots during the workshop.
 
-### Topic Description
+#### Topic Description
 
 The Workshop will be open to the broader community addressing **various technical and application aspects of challenges and opportunities in computer vision research for agriculture.** We aim to provide a venue to both show current relevant efforts in interdisciplinary areas between computer vision and agriculture, and to encourage further research and conversations within the computer vision community to tackle impactful agriculture-vision problems. We will solicit papers from the following wide range of topics:
 
