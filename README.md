@@ -211,8 +211,8 @@ Please feel free to [contact us](https://www.agriculture-vision.com/contact-us) 
 
 #### Accepted Papers
 
-[1] Effective Data Fusion with Generalized Vegetation Index: Evidence from Land Cover Segmentation in Agriculture, *Hao Sheng,
-Xiao Chen, Jingyi Su, Ram Rajagopal, Andrew Ng* **(Stanford University) [Link]**
+[1] **Effective Data Fusion with Generalized Vegetation Index: Evidence from Land Cover Segmentation in Agriculture**, Hao Sheng,
+Xiao Chen, Jingyi Su, Ram Rajagopal, Andrew Ng *(Stanford University) [Link]*
 
 ### Accepted Posters
 
