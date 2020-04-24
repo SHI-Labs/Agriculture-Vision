@@ -51,7 +51,7 @@ Each field image has a file name in the format of (**field id**)_(**x1**)-(**y1*
 
 The challenge dataset contains images, boundaries and masks for train, val and test set. It also contains labels for the train and val set only. The dataset .tar.gz file is around 4.4 GB. Please [contact us](https://www.agriculture-vision.com/contact-us) to get access.
 
-## Challenge
+## Evaluation
 
 ### Evaluation metric
 
@@ -75,7 +75,7 @@ The mIoU is finally computed by (**true_positive**) / (**prediction** + **target
 ### Submission
 
 #### Registration
-We are now hosting our challenge on **Codalab**. The competition page can be found here. Each participating team is required to register for the challenge. To register your team, fill out the registration form here, then register on the competition page.
+We are now hosting our evaluation/competition on **Codalab**. The competition page can be found here. Each participating team is required to register for the challenge. To register your team, fill out the registration form here, then register on the competition page.
 
 *Make sure your Codalab account email matches one of the member emails in the registration form. Each team can only register once.
 
@@ -98,7 +98,9 @@ This label order will be strictly followed during evaluation.
 
 All teams can have 2 submissions per day and 20 submissions in total.
 
-#### Final submission and prize reward
+## Challenge
+
+### Final submission and prize reward
 The Codalab leaderboard will be closed after the deadline. Top-tier teams will be invited through email to provide their final submission for the prize reward. The final submission will be a compressed **.zip** file that contains the following materials:
 
 <pre><b>submission/
@@ -172,6 +174,7 @@ Please refer to our [workshop summary paper](https://arxiv.org/abs/2004.09754) f
 |ajeetsinghiitd|10.3|56.9|00.2|00.4|0.0|0.0|00.1|14.5|
 
 ### Teams
+**Team Hyunseong**: hyunseong Park, Junhee Kim, Sungho Kim *(Agency for Defense Development, South Korea)*
 
 ## Workshop
 
@@ -192,22 +195,6 @@ The Workshop will be open to the broader community addressing **various technica
 - Effective data fusion of multi-spectral image data such as RGB and Near-Infrared (RGB-NIR)
 - Robust and stable pattern recognition on sparse and imbalanced annotations
 - Other novel vision applications in agriculture
-
-Please feel free to [contact us](https://www.agriculture-vision.com/contact-us) if you have any additional questions.
-
-### IMPORTANT DATES
-
-#### Paper submission:
-- Workshop paper submission deadline: March 30, 2020 (11:59PM PDT)
-- Notification to authors: April 15, 2020 (11:59PM PDT)
-- Camera ready deadline: April 20, 2020 (10:00 AM PDT)
-- Poster & Oral presentation during workshop, June 14, 2020
- 
-#### Challenge related:
-- Challenge opens to public: January 27, 2020 (11:59PM PDT)
-- Challenge reports submission by email: April 15, 2020 (11:59 PDT)
-- Challenge results submission deadline: April 20, 2020 (10:00 AM PDT)
-- Challenge awards announcement, prize winners presentations, June 14, 2020
 
 ### Accepted Papers and Posters
 
