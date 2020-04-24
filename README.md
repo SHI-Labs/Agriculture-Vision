@@ -35,8 +35,9 @@ CVPR Workshop paper on the 1st Agriculture-Vision Challenge (challenge dataset, 
   year={2020}
 }
 ```
+## Dataset
 
-## Agriculture-Vision Challenge Dataset
+### Agriculture-Vision Challenge Dataset
 
 <img src="images/cs.gif" width="300" title="Cloud shadow"> <img src="images/dp.gif" width="300" title="Double plant"> <img src="images/ps.gif" width="300" title="Planter skip">
 <img src="images/sw.gif" width="300" title="Standing water"> <img src="images/ww.gif" width="300" title="Waterway"> <img src="images/wc.gif" width="300" title="Weed cluster">
