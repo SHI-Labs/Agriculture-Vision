@@ -123,7 +123,7 @@ Selected teams & methods:
 - **Method**: Residual DenseNet with Expert Network for Semantic Segmentation
 
 **Team SCG Vision**: Qinghui Liu, Michael C. Kampffmeyer, Robert Jenssen, Arnt B. Salberg *(Norwegian Computing Center, UiT The Arctic University of Norway)*
-- **Method**: Multi-view Self-Constructing Graph Convolutional Networks with Adaptive Class Weighting Loss for Semantic Segmentation
+- **Method**: [Multi-view Self-Constructing Graph Convolutional Networks with Adaptive Class Weighting Loss for Semantic Segmentation](https://arxiv.org/abs/2004.10327)
 
 **Team AGR**: Alexandre Barbosa, Rodrigo Trevisan *(University of Illinois at Urbana Champaign)*
 - **Method**: Techniques for Improving Aerial Agricultural Image Semantic Segmentation
@@ -259,3 +259,29 @@ The Workshop will be open to the broader community addressing **various technica
 
 ### Accepted Posters
 
+- **Scoring Root Necrosis in Cassava Using Semantic Segmentation**,<br/>
+    Joyce Nakatumba-Nabende, Jeremy Tusubira, Benjamin Akera, Ernest Mwebaze *(Makerere University, Google)*
+
+- **Active Learning Sampling Strategies For Weed Segmentation**,<br/>
+    Andrei Polzounov, Anshul Tibrewal, Ben Cline, Olgert Denas, Chris Padwick, Jim Ostrowski *(Blue River Technology)*
+
+- **[Convolutional Neural Networks for Image-based Corn Kernel Detection and Counting](https://arxiv.org/abs/2003.12025)**,<br/>
+    Saeed Khaki, Hieu Pham, Ye Han, Andy Kuhl, Wade Kent, Lizhi Wang *(Iowa State University, Syngenta)*
+
+- **Eff-PN: A Novel Deep Learning Approach for Anomaly Pattern Segmentation in Aerial Agricultural Images**,<br/>
+    Shubham Innani, Prasad Dutande, Ujjwal R Baid, Bhakti Vilas Baheti, Sanjay Talbar *(SGGSIET Nanded)*
+
+- **Deep Unsupervised Deblurring Approach for Improving Crops Disease Classification**,<br/>
+    Javed Ahmad, Fahad Shamshad, Junaid Maqbool, Ali Ahmed *(Information Technology University)*
+
+- **NDVI Vegetation Index Estimation Through an\\ Unsupervised Deep Learning based Approach**,<br/>
+    Patricia L Suarez, Angel Sappa, Boris Vintimilla *(ESPOL POLYTECHNIC UNIVERSITY)*
+
+- **Plants Disease Detection in Low Data Regime**,<br/>
+    Shruti Jadon *(Brown University (Rhode Island Hospital))*
+
+- **Semi-Supervised Crop Detection in UAV Orthophotographs**,<br/>
+    Jana Wieme, Sam Leroux, Simon Cool, Ruben Van De Vijver, Wouter H. Maes, Jan Pieters *(Ghent University)*
+
+- **Counting Corn Stands using Drone Images from Cloud to Edge –A Deep Learning-based Object Detection Approach**,<br/>
+    Zhiyi Li, Kshitiz Dhakal, Song Li *(Virginia Tech)*
