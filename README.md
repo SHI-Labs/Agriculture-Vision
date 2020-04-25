@@ -77,8 +77,13 @@ The mIoU is finally computed by (**true_positive**) / (**prediction** + **target
 
 ### Submission
 
+**Update:**
+
+* The 1st Agriculture-Vision Prize Challenge has ended on April 20, 2020 (10:00 AM PDT). The final results as of the end date of the challenge can be found in these links ([png](https://github.com/SHI-Labs/Agriculture-Vision/raw/master/codalab_challenge_results.png), [csv](https://raw.githubusercontent.com/SHI-Labs/Agriculture-Vision/master/codalab_challenge_results.csv)).
+* The Codalab evaluation server will remain open to encourage further research in Agriculture-Vision. No registration is required.
+
 #### Registration
-We are now hosting our evaluation/competition on **Codalab**. The competition page can be found here. Each participating team is required to register for the challenge. To register your team, fill out the registration form here, then register on the competition page.
+We are now hosting our evaluation/competition on **Codalab**. The competition page can be found [here](https://competitions.codalab.org/competitions/23732?secret_key=dba10d3a-a676-4c44-9acf-b45dc92c5fcf). Each participating team is required to register for the challenge. To register your team, fill out the registration form here, then register on the competition page.
 
 *Make sure your Codalab account email matches one of the member emails in the registration form. Each team can only register once.
 
