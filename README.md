@@ -13,7 +13,7 @@ Agriculture-Vision Dataset, Challenge and Workshop (CVPR 2020)
     * [Submission](#submission)
 - [Challenge](#challenge)
     * [Teams and Methods](#teams-and-methods)
-    * [Leaderboard](#leaderboard)
+    * [Challenge leaderboard](#challenge-leaderboard)
 - [Workshop](#workshop)
     * [Paper track](#paper-track)
     * [Accepted Papers](#accepted-papers)
@@ -120,12 +120,27 @@ Please refer to our [workshop summary paper](https://arxiv.org/abs/2004.09754) f
 Selected teams & methods:
 
 **Team Hyunseong**: Hyunseong Park, Junhee Kim, Sungho Kim *(Agency for Defense Development, South Korea)*
-- **Method**: Residual DenseNet with Expert Network for Semantic Segmentation [Link]
+- **Method**: Residual DenseNet with Expert Network for Semantic Segmentation
 
-**Team Hyunseong**: Hyunseong Park, Junhee Kim, Sungho Kim *(Agency for Defense Development, South Korea)*
-- **Method**: Residual DenseNet with Expert Network for Semantic Segmentation [Link]
+**Team SCG Vision**: Qinghui Liu, Michael C. Kampffmeyer, Robert Jenssen, Arnt B. Salberg *(Norwegian Computing Center, UiT The Arctic University of Norway)*
+- **Method**: Multi-view Self-Constructing Graph Convolutional Networks with Adaptive Class Weighting Loss for Semantic Segmentation
 
-### Leaderboard
+**Team AGR**: Alexandre Barbosa, Rodrigo Trevisan *(University of Illinois at Urbana Champaign)*
+- **Method**: Techniques for Improving Aerial Agricultural Image Semantic Segmentation
+
+**Team TJU**: Bingchen Zhao, Shaozuo Yu, Siwei Yang, Yin Wang *(Tongji University)*
+- **Method**: Reducing the feature divergence of RGB and near-infrared images using Switchable Normalization
+
+**Team Haossr**: Hao Sheng, Xiao Chen, Jingyi Su, Ram Rajagopal, Andrew Ng *(Stanford University, Chegg, Inc.)*
+- **Method**: Effective Data Fusion with Generalized Vegetation Index: Evidence from Land Cover Segmentation in Agriculture
+
+**Team CNUPR\_TH2L**: Van Thong Huynh, Soo-Hyung Kim, In-Seop Na *(Chonnam National University, Chosun University)*
+- **Method**: Multi-spectra Attention in Aerial Agricultural Segmentation
+
+**Team TeamTiger**: Ujjwal Baid, Shubham Innani, Prasad Dutande, Bhakti Baheti, Sanjay Talbar *(SGGS Institute of Engineering and Technology)*
+- **Method**: Pattern Segmentation in Agriculture: A Contribution to Challenge
+
+### Challenge leaderboard
 
 |Team|mIoU (%)|Background|Cloud shadow|Double plant|Planter skip|Standing water|Waterway|Weed cluster
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -191,11 +206,56 @@ The Workshop will be open to the broader community addressing **various technica
 
 ### Accepted Papers
 
-[1] **Effective Data Fusion with Generalized Vegetation Index: Evidence from Land Cover Segmentation in Agriculture**, Hao Sheng,
-Xiao Chen, Jingyi Su, Ram Rajagopal, Andrew Ng *(Stanford University) [Link]*
+- **[Multi-view Self-Constructing Graph Convolutional Networks with Adaptive Class Weighting Loss for Semantic Segmentation](https://arxiv.org/abs/2004.10327)**,<br/>
+    Qinghui Liu, Michael C. Kampffmeyer, Robert Jenssen, Arnt B. Salberg *(Norwegian Computing Center, UiT The Arctic University of Norway)*
 
-[1] **Effective Data Fusion with Generalized Vegetation Index: Evidence from Land Cover Segmentation in Agriculture**, Hao Sheng,
-Xiao Chen, Jingyi Su, Ram Rajagopal, Andrew Ng *(Stanford University) [Link]*
+- **Reducing the feature divergence of RGB and near-infrared images using Switchable Normalization**,<br/>
+    Siwei Yang, Shaozuo Yu, Bingchen Zhao, Yin Wang *(Tongji University)*
+
+- **[Finding Berries: Segmentation and Counting of Cranberries using Point Supervision and Shape Priors](https://arxiv.org/abs/2004.08501)**,<br/>
+    Peri Akiva, Kristin Dana, Peter Oudemans, Michael Mars *(Rutgers University)*
+
+- **Leaf Spot Attention Network for Apple Leaf Disease Identification**,<br/>
+    Hee-Jin Yu, Chang-Hwan Son *(Kunsan National University)*
+
+- **Visual 3D Reconstruction and Dynamic Simulation of Fruit Trees for Robotic Manipulation**,<br/> 
+    Francisco J Yandun, Abhisesh Silwal; George Kantor *(Carnegie Mellon University)*
+
+- **Cross-Regional Oil Palm Tree Detection**,<br/>
+    Wenzhao Wu, Juepeng Zheng, Haohuan Fu, Weijia Li, Le Yu *(Tsinghua University, The Chinese University of Hong Kong)*
+
+- **Multi-Stream CNN for Spatial Resource Allocation: a Crop Management Application**,<br/>
+    Alexandre Barbosa, Thiago Marinho, Nicolas Martin, Naira Hovakimyan *(University of Illinois at Urbana-Champaign)*
+
+- **Effective Data Fusion with Generalized Vegetation Index: Evidence from Land Cover Segmentation in Agriculture**,<br/> 
+    Hao Sheng, Xiao Chen, Jingyi Su, Ram Rajagopal, Andrew Ng *(Stanford University)*
+
+- **Deep Transfer Learning For Plant Center Localization**,<br/>
+    Enyu Cai, Sriram Baireddy, Changye Yang, Melba Crawford, Edward Delp *(Purdue University)*
+
+- **Segmentation and detection from organised 3D point clouds: a case study in broccoli head detection**,<br/>
+    Justin Le Louëdec, Hector A. Montes, Tom Duckett, Grzegorz Cielniak *(University of Lincoln)*
+
+- **Deep Learning based Corn Kernel Classification**,<br/>
+    Henry Velesaca, Raúl Mira, Patricia L Suarez,  Christian Larrea, Angel Sappa *(ESPOL, Computer Vision Center, Spain)*
+
+- **Improving In-field Cassava Whitefly Pest Surveillance with Machine Learning**,<br/>
+    Jeremy Tusubira, Solomon nsumba, Flavia Ninsiima, Benjamin Akera, Guy Acellam, Joyce Nakatumba-Nabende, Ernest Mwebaze, John A Quinn, Tonny Oyana *(Makerere University, Google)*
+
+- **[Weakly Supervised Learning Guided by Activation Mapping Applied to a Novel Citrus Pest Benchmark](https://arxiv.org/abs/2004.11252)**,<br/>
+    Edson Riberto Bollis, Helio Pedrini, Sandra Avila *(UNICAMP)*
+
+- **Fine-Grained Recognition in High-throughput Phenotyping**,<br/>
+    Beichen Lyu, Stuart Smith, Keith Cherkauer *(Purdue University)*
+
+- **A Novel Technique Combining Image Processing, Plant Development Properties, and the Hungarian Algorithm, to Improve Leaf Detection in Maize**,<br/>
+    Nazifa Khan, Ian McQuillan, Mark Eramian, Oliver A.S. Lyon *(University of Saskatchewan, Queen's University)*
+
+- **[Farm Parcel Delineation Using Spatio-temporal Convolutional Networks](https://arxiv.org/abs/2004.05471)**,<br/>
+    Han Lin Aung, Burak Uzkent, Marshall Burke, David Lobell, Stefano Ermon *(Stanford University)*
+
+- **Climate Adaptation: Reliably Predicting from Imbalanced Satellite Data**,<br/>
+    Ruchit Rawal, Prabhu Pradhan *(NSIT, Max Planck Institute for Intelligent Systems)*
 
 ### Accepted Posters
 
