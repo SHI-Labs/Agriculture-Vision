@@ -143,8 +143,7 @@ Selected teams & methods:
 - **Method**: Multi-spectra Attention in Aerial Agricultural Segmentation
 
 **Team TeamTiger**: Ujjwal Baid, Shubham Innani, Prasad Dutande, Bhakti Baheti, Sanjay Talbar *(SGGS Institute of Engineering and Technology)*
-- **Method**: Pattern Segmentation in Agriculture: A Contribution to Challenge
-
+- **Method**: Eff-PN: A Novel Deep Learning Approach for Anomaly Pattern Segmentation in Aerial Agricultural Images
 ### Challenge leaderboard
 
 |Team|mIoU (%)|Background|Cloud shadow|Double plant|Planter skip|Standing water|Waterway|Weed cluster
