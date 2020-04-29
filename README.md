@@ -134,7 +134,7 @@ Selected teams & methods:
 - **Method**: Techniques for Improving Aerial Agricultural Image Semantic Segmentation
 
 **Team TJU**: Bingchen Zhao, Shaozuo Yu, Siwei Yang, Yin Wang *(Tongji University)*
-- **Method**: Reducing the feature divergence of RGB and near-infrared images using Switchable Normalization
+- **Method**: [Reducing the feature divergence of RGB and near-infrared images using Switchable Normalization](http://info.zhaobc.me/files/CVPRW_2020_AgriVis.pdf)
 
 **Team Haossr**: Hao Sheng, Xiao Chen, Jingyi Su, Ram Rajagopal, Andrew Ng *(Stanford University, Chegg, Inc.)*
 - **Method**: Effective Data Fusion with Generalized Vegetation Index: Evidence from Land Cover Segmentation in Agriculture
@@ -214,8 +214,8 @@ The Workshop will be open to the broader community addressing **various technica
 - **[Multi-view Self-Constructing Graph Convolutional Networks with Adaptive Class Weighting Loss for Semantic Segmentation](https://arxiv.org/abs/2004.10327)**,<br/>
     Qinghui Liu, Michael C. Kampffmeyer, Robert Jenssen, Arnt B. Salberg *(Norwegian Computing Center, UiT The Arctic University of Norway)*
 
-- **Reducing the feature divergence of RGB and near-infrared images using Switchable Normalization**,<br/>
-    Siwei Yang, Shaozuo Yu, Bingchen Zhao, Yin Wang *(Tongji University)*
+- **[Reducing the feature divergence of RGB and near-infrared images using Switchable Normalization](http://info.zhaobc.me/files/CVPRW_2020_AgriVis.pdf)**,<br/>
+    Siwei Yang\*, Shaozuo Yu\*, Bingchen Zhao\*, Yin Wang (\* equal contribution)*(Tongji University)*
 
 - **[Finding Berries: Segmentation and Counting of Cranberries using Point Supervision and Shape Priors](https://arxiv.org/abs/2004.08501)**,<br/>
     Peri Akiva, Kristin Dana, Peter Oudemans, Michael Mars *(Rutgers University)*
