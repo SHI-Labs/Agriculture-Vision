@@ -215,7 +215,7 @@ The Workshop will be open to the broader community addressing **various technica
     Qinghui Liu, Michael C. Kampffmeyer, Robert Jenssen, Arnt B. Salberg *(Norwegian Computing Center, UiT The Arctic University of Norway)*
 
 - **[Reducing the feature divergence of RGB and near-infrared images using Switchable Normalization](http://info.zhaobc.me/files/CVPRW_2020_AgriVis.pdf)**,<br/>
-    Siwei Yang, Shaozuo Yu, Bingchen Zhao, Yin Wang *(Tongji University)*
+    Siwei Yang\*, Shaozuo Yu\*, Bingchen Zhao\*, Yin Wang (\* equal contribution)*(Tongji University)*
 
 - **[Finding Berries: Segmentation and Counting of Cranberries using Point Supervision and Shape Priors](https://arxiv.org/abs/2004.08501)**,<br/>
     Peri Akiva, Kristin Dana, Peter Oudemans, Michael Mars *(Rutgers University)*
