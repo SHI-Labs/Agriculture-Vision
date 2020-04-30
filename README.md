@@ -258,7 +258,7 @@ The Workshop will be open to the broader community addressing **various technica
 - **[Farm Parcel Delineation Using Spatio-temporal Convolutional Networks](https://arxiv.org/abs/2004.05471)**,<br/>
     Han Lin Aung, Burak Uzkent, Marshall Burke, David Lobell, Stefano Ermon *(Stanford University)*
 
-- **Climate Adaptation: Reliably Predicting from Imbalanced Satellite Data**,<br/>
+- **[Climate Adaptation: Reliably Predicting from Imbalanced Satellite Data](https://arxiv.org/abs/2004.12344)**,<br/>
     Ruchit Rawal, Prabhu Pradhan *(NSIT, Max Planck Institute for Intelligent Systems)*
 
 ### Accepted Posters
