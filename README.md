@@ -20,7 +20,7 @@ Agriculture-Vision Dataset, Challenge and Workshop (CVPR 2020)
     * [Accepted Posters](#accepted-posters)
 
 ## Papers:
-CVPR paper on Agriculture-Vision
+CVPR paper on Agriculture-Vision [ArXiv](https://arxiv.org/abs/2001.01306)
 ```BibTex
 @article{chiu2020agriculture,
   title={Agriculture-Vision: A Large Aerial Image Database for Agricultural Pattern Analysis},
@@ -29,7 +29,7 @@ CVPR paper on Agriculture-Vision
   year={2020}
 }
 ```
-CVPR Workshop paper on the 1st Agriculture-Vision Challenge (challenge dataset, methods and results)
+CVPR Workshop paper on the 1st Agriculture-Vision Challenge (challenge dataset, methods and results) [ArXiv](https://arxiv.org/abs/2004.09754)
 ```BibTex
 @article{chiu20201st,
   title={The 1st Agriculture-Vision Challenge: Methods and Results},
