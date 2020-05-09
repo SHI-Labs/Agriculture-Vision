@@ -70,7 +70,7 @@ Concretely, we construct the confusion matrix **M<sup>c×c</sup>** with the foll
 
 For each prediction x and label set Y:
 
-1. If **x** ⊆ **Y**, then **M<sub>y,y</sub>** = **M<sub>y,y</sub>** + 1 for each **y** in **Y**<br/>
+1. If **x** ∈ **Y**, then **M<sub>y,y</sub>** = **M<sub>y,y</sub>** + 1 for each **y** in **Y**<br/>
 2. Otherwise, **M<sub>x,y</sub>** = **M<sub>x,y</sub>** + 1 for each **y** in **Y**<br/>
 
 The mIoU is finally computed by (**true_positive**) / (**prediction** + **target** - **true_positive**), averaged across all classes.
