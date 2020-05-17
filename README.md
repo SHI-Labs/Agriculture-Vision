@@ -15,7 +15,8 @@ Agriculture-Vision Dataset, Challenge and Workshop (CVPR 2020)
     * [Teams and Methods](#teams-and-methods)
     * [Challenge leaderboard](#challenge-leaderboard)
 - [Workshop](#workshop)
-    * [Paper track](#paper-track)
+    * [Schedule](#schedule)
+    * [Paper Track](#paper-track)
     * [Accepted Papers](#accepted-papers)
     * [Accepted Posters](#accepted-posters)
 
@@ -190,6 +191,42 @@ Selected teams & methods:
 
 ## Workshop
 
+### Schedule
+08:30 - 08:40 Opening remarks and welcome<br/>
+08:40 - 09:00 Invited Talk 1<br/>
+09:00 - 09:20 Invited Talk 2<br/>
+09:20 - 09:40 Invited Talk 3<br/>
+09:40 - 10:00 Invited Talk 4<br/>
+10:00 - 10:20 Invited Talk 5<br/>
+***
+10:20 - 11:10 Poster Session<br/>
+***
+11:10 - 11:20 Oral Presentation 1<br/>
+11:20 - 11:30 Oral Presentation 2<br/>
+11:30 - 11:40 Oral Presentation 3<br/>
+11:40 - 11:50 Oral Presentation 4<br/>
+11:50 - 11:00 Oral Presentation 5<br/>
+11:00 - 12:10 Oral Presentaiton 6<br/>
+12:10 - 12:20 Oral Presentation 7<br/>
+12:20 - 12:30 Oral Presentation 8<br/>
+***
+12:30 - 13:30 Lunch Break<br/>
+13:30 - 13:50 Invited Talk 6<br/>
+13:50 - 14:10 Invited Talk 7<br/>
+14:10 - 14:30 Invited Talk 8<br/>
+14:30 - 14:50 Invited Talk 9<br/>
+14:50 - 15:10 Invited Talk 10<br/>
+***
+15:10 - 15:55 Poster Session<br/>
+***
+15:55 - 16:10 Agriculture-Vision Prize Challenge Results Summary and Award Ceremony<br/>
+16:10 - 16:20 Challenge 1st Place Presentation<br/>
+16:20 - 16:30 Challenge 2nd Place Presentation<br/>
+16:30 - 16:40 Challenge 3rd Place Presentation<br/>
+***
+16:40 - 17:20 Panel Discussion: Challenge & Opportunities for Computer Vision in Agriculture<br/>
+17:20 - 17:30 Closing Remark<br/>
+<br/>
 ### Paper Track
 
 - We accept papers related to Agriculture-Vision with a rigorous peer-review process with program committee members from  multiple research communities including computer vision, machine learning, image processing, remote sensing, agriculture etc.
@@ -210,55 +247,55 @@ The Workshop will be open to the broader community addressing **various technica
 
 ### Accepted Papers
 
-- **[Multi-view Self-Constructing Graph Convolutional Networks with Adaptive Class Weighting Loss for Semantic Segmentation](https://arxiv.org/abs/2004.10327)**,<br/>
+- **[Multi-view Self-Constructing Graph Convolutional Networks with Adaptive Class Weighting Loss for Semantic Segmentation](https://arxiv.org/abs/2004.10327) (Oral)**,<br/>
     Qinghui Liu, Michael C. Kampffmeyer, Robert Jenssen, Arnt B. Salberg *(Norwegian Computing Center, UiT The Arctic University of Norway)*
 
-- **[Reducing the feature divergence of RGB and near-infrared images using Switchable Normalization](http://info.zhaobc.me/files/CVPRW_2020_AgriVis.pdf)**,<br/>
+- **[Reducing the feature divergence of RGB and near-infrared images using Switchable Normalization](http://info.zhaobc.me/files/CVPRW_2020_AgriVis.pdf) (Poster)**,<br/>
     Siwei Yang\*, Shaozuo Yu\*, Bingchen Zhao\*, Yin Wang (\* equal contribution)*(Tongji University)*
 
-- **[Finding Berries: Segmentation and Counting of Cranberries using Point Supervision and Shape Priors](https://arxiv.org/abs/2004.08501)**,<br/>
+- **[Finding Berries: Segmentation and Counting of Cranberries using Point Supervision and Shape Priors](https://arxiv.org/abs/2004.08501) (Oral)**,<br/>
     Peri Akiva, Kristin Dana, Peter Oudemans, Michael Mars *(Rutgers University)*
 
-- **Leaf Spot Attention Network for Apple Leaf Disease Identification**,<br/>
+- **Leaf Spot Attention Network for Apple Leaf Disease Identification (Poster)**,<br/>
     Hee-Jin Yu, Chang-Hwan Son *(Kunsan National University)*
 
-- **Visual 3D Reconstruction and Dynamic Simulation of Fruit Trees for Robotic Manipulation**,<br/> 
+- **Visual 3D Reconstruction and Dynamic Simulation of Fruit Trees for Robotic Manipulation (Oral)**,<br/> 
     Francisco J Yandun, Abhisesh Silwal; George Kantor *(Carnegie Mellon University)*
 
-- **Cross-Regional Oil Palm Tree Detection**,<br/>
+- **Cross-Regional Oil Palm Tree Detection (Oral)**,<br/>
     Wenzhao Wu, Juepeng Zheng, Haohuan Fu, Weijia Li, Le Yu *(Tsinghua University, The Chinese University of Hong Kong)*
 
-- **Multi-Stream CNN for Spatial Resource Allocation: a Crop Management Application**,<br/>
+- **Multi-Stream CNN for Spatial Resource Allocation: a Crop Management Application (Poster)**,<br/>
     Alexandre Barbosa, Thiago Marinho, Nicolas Martin, Naira Hovakimyan *(University of Illinois at Urbana-Champaign)*
 
-- **Effective Data Fusion with Generalized Vegetation Index: Evidence from Land Cover Segmentation in Agriculture**,<br/> 
+- **Effective Data Fusion with Generalized Vegetation Index: Evidence from Land Cover Segmentation in Agriculture (Oral)**,<br/> 
     Hao Sheng, Xiao Chen, Jingyi Su, Ram Rajagopal, Andrew Ng *(Stanford University)*
 
-- **Deep Transfer Learning For Plant Center Localization**,<br/>
+- **Deep Transfer Learning For Plant Center Localization (Poster)**,<br/>
     Enyu Cai, Sriram Baireddy, Changye Yang, Melba Crawford, Edward Delp *(Purdue University)*
 
-- **Segmentation and detection from organised 3D point clouds: a case study in broccoli head detection**,<br/>
+- **Segmentation and detection from organised 3D point clouds: a case study in broccoli head detection (Poster)**,<br/>
     Justin Le Louëdec, Hector A. Montes, Tom Duckett, Grzegorz Cielniak *(University of Lincoln)*
 
-- **Deep Learning based Corn Kernel Classification**,<br/>
+- **Deep Learning based Corn Kernel Classification (Poster)**,<br/>
     Henry Velesaca, Raúl Mira, Patricia L Suarez,  Christian Larrea, Angel Sappa *(ESPOL, Computer Vision Center, Spain)*
 
-- **Improving In-field Cassava Whitefly Pest Surveillance with Machine Learning**,<br/>
+- **Improving In-field Cassava Whitefly Pest Surveillance with Machine Learning (Poster)**,<br/>
     Jeremy Tusubira, Solomon nsumba, Flavia Ninsiima, Benjamin Akera, Guy Acellam, Joyce Nakatumba-Nabende, Ernest Mwebaze, John A Quinn, Tonny Oyana *(Makerere University, Google)*
 
-- **[Weakly Supervised Learning Guided by Activation Mapping Applied to a Novel Citrus Pest Benchmark](https://arxiv.org/abs/2004.11252)**,<br/>
+- **[Weakly Supervised Learning Guided by Activation Mapping Applied to a Novel Citrus Pest Benchmark](https://arxiv.org/abs/2004.11252) (Oral)**,<br/>
     Edson Riberto Bollis, Helio Pedrini, Sandra Avila *(UNICAMP)*
 
-- **Fine-Grained Recognition in High-throughput Phenotyping**,<br/>
+- **Fine-Grained Recognition in High-throughput Phenotyping (Oral)**,<br/>
     Beichen Lyu, Stuart Smith, Keith Cherkauer *(Purdue University)*
 
-- **A Novel Technique Combining Image Processing, Plant Development Properties, and the Hungarian Algorithm, to Improve Leaf Detection in Maize**,<br/>
+- **A Novel Technique Combining Image Processing, Plant Development Properties, and the Hungarian Algorithm, to Improve Leaf Detection in Maize (Poster)**,<br/>
     Nazifa Khan, Ian McQuillan, Mark Eramian, Oliver A.S. Lyon *(University of Saskatchewan, Queen's University)*
 
-- **[Farm Parcel Delineation Using Spatio-temporal Convolutional Networks](https://arxiv.org/abs/2004.05471)**,<br/>
+- **[Farm Parcel Delineation Using Spatio-temporal Convolutional Networks](https://arxiv.org/abs/2004.05471) (Poster)**,<br/>
     Han Lin Aung, Burak Uzkent, Marshall Burke, David Lobell, Stefano Ermon *(Stanford University)*
 
-- **[Climate Adaptation: Reliably Predicting from Imbalanced Satellite Data](https://arxiv.org/abs/2004.12344)**,<br/>
+- **[Climate Adaptation: Reliably Predicting from Imbalanced Satellite Data](https://arxiv.org/abs/2004.12344) (Oral)**,<br/>
     Ruchit Rawal, Prabhu Pradhan *(NSIT, Max Planck Institute for Intelligent Systems)*
 
 ### Accepted Posters
