@@ -289,7 +289,7 @@ The Workshop will be open to the broader community addressing **various technica
 - **Fine-Grained Recognition in High-throughput Phenotyping (Oral)**,<br/>
     Beichen Lyu, Stuart Smith, Keith Cherkauer *(Purdue University)*
 
-- **A Novel Technique Combining Image Processing, Plant Development Properties, and the Hungarian Algorithm, to Improve Leaf Detection in Maize (Poster)**,<br/>
+- **[A Novel Technique Combining Image Processing, Plant Development Properties, and the Hungarian Algorithm, to Improve Leaf Detection in Maize](https://arxiv.org/abs/2005.09022) (Poster)**,<br/>
     Nazifa Khan, Ian McQuillan, Mark Eramian, Oliver A.S. Lyon *(University of Saskatchewan, Queen's University)*
 
 - **[Farm Parcel Delineation Using Spatio-temporal Convolutional Networks](https://arxiv.org/abs/2004.05471) (Poster)**,<br/>
