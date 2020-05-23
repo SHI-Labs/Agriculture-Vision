@@ -135,7 +135,7 @@ Selected teams & methods:
 - **Method**: Techniques for Improving Aerial Agricultural Image Semantic Segmentation
 
 **Team TJU**: Bingchen Zhao, Shaozuo Yu, Siwei Yang, Yin Wang *(Tongji University)*
-- **Method**: [Reducing the feature divergence of RGB and near-infrared images using Switchable Normalization](http://info.zhaobc.me/files/CVPRW_2020_AgriVis.pdf)
+- **Method**: [Reducing the feature divergence of RGB and near-infrared images using Switchable Normalization](http://info.zhaobc.me/files/CVPRW_2020_AgriVis.pdf) [Code](https://github.com/LAOS-Y/AgriVision)
 
 **Team Haossr**: Hao Sheng, Xiao Chen, Jingyi Su, Ram Rajagopal, Andrew Ng *(Stanford University, Chegg, Inc.)*
 - **Method**: Effective Data Fusion with Generalized Vegetation Index: Evidence from Land Cover Segmentation in Agriculture
