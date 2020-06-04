@@ -206,7 +206,7 @@ Selected teams & methods:
 11:30 - 11:40 Oral Presentation 3<br/>
 11:40 - 11:50 Oral Presentation 4<br/>
 11:50 - 11:00 Oral Presentation 5<br/>
-11:00 - 12:10 Oral Presentaiton 6<br/>
+11:00 - 12:10 Oral Presentation 6<br/>
 12:10 - 12:20 Oral Presentation 7<br/>
 12:20 - 12:30 Oral Presentation 8<br/>
 ***
