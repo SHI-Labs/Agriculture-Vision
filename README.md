@@ -192,42 +192,102 @@ Selected teams & methods:
 ## Workshop
 
 ### Schedule
-08:30 - 08:40 Opening remarks and welcome<br/>
-08:40 - 09:00 Invited Talk 1<br/>
-09:00 - 09:20 Invited Talk 2<br/>
-09:20 - 09:40 Invited Talk 3<br/>
-09:40 - 10:00 Invited Talk 4<br/>
-10:00 - 10:20 Invited Talk 5<br/>
+***(Sunday, Jun 14 PDT)***
 ***
-10:20 - 11:10 Poster Session<br/>
+**08:30 – 08:40** [Opening Remarks and Welcome](http://cvpr20.com/events/w57-opening-remarks/)
+
+Humphrey Shi (University of Oregon)
+
+Naira Hovakimyan (UIUC)
 ***
-11:10 - 11:20 Oral Presentation 1<br/>
-11:20 - 11:30 Oral Presentation 2<br/>
-11:30 - 11:40 Oral Presentation 3<br/>
-11:40 - 11:50 Oral Presentation 4<br/>
-11:50 - 11:00 Oral Presentation 5<br/>
-11:00 - 12:10 Oral Presentation 6<br/>
-12:10 - 12:20 Oral Presentation 7<br/>
-12:20 - 12:30 Oral Presentation 8<br/>
+**08:40 – 09:00** [Invited Talk 1: Scaling Spatio-Temporal Analytics: A Case in Agricultural Insights](http://cvpr20.com/event/w57-invited-talk-1/)
+
+Sharath Pankanti (IBM T.J. Watson Research Center)
+
+**09:00 – 09:20** [Invited Talk 2: Multi-modality Remote Sensing in High Throughput Phenotyping: Opportunities for Machine Learning](http://cvpr20.com/event/w57-invited-talk-2/)
+
+Melba M. Crawford, Edward J. Delp (Purdue)
+
+**09:20 – 09:40** [Invited Talk 3: Bridging Application and Research. Is agriculture just another application?](http://cvpr20.com/event/w57-invited-talk-3/)
+
+Jennifer Hobbs (IntelinAir Inc.)
+
+**09:40 – 10:00** [Invited Talk 4: Improving Visual and Speech Recognition on Out-Domain Data](http://cvpr20.com/event/w57-invited-talk-4/)
+
+Liangliang Cao (Google Inc. and Umass)
+
+**10:00 – 10:20** [Invited Talk 5: Learning to Anticipate](http://cvpr20.com/event/w57-invited-talk-5/)
+
+Alex Schwing (UIUC)
 ***
-12:30 - 13:30 Lunch Break<br/>
+**10:20 – 11:10** [Poster Session 1](http://cvpr20.com/w57-poster-session-1/)
 ***
-13:30 - 13:50 Invited Talk 6<br/>
-13:50 - 14:10 Invited Talk 7<br/>
-14:10 - 14:30 Invited Talk 8<br/>
-14:30 - 14:50 Invited Talk 9<br/>
-14:50 - 15:10 Invited Talk 10<br/>
+**11:10 – 11:20** [Oral 1: MSCG-Net with Adaptive Class Weighting Loss for Semantic Segmentation](http://cvpr20.com/w57-oral-presentation-1/)<br/>
+**11:20 – 11:30** [Oral 2: Finding Berries: Segmentation and Counting of Cranberries using Point Supervision and Shape Priors](http://cvpr20.com/w57-oral-presentation-2/)<br/>
+**11:30 – 11:40** [Oral 3: Visual 3D Reconstruction and Dynamic Simulation of Fruit Trees for Robotic Manipulation](http://cvpr20.com/w57-oral-presentation-3/)<br/>
+**11:40 – 11:50** [Oral 4: Cross-Regional Oil Palm Tree Detection](http://cvpr20.com/w57-oral-presentation-4/)<br/>
+**11:50 – 11:00** [Oral 5: Effective Data Fusion with Generalized Vegetation Index](http://cvpr20.com/w57-oral-presentation-6/)<br/>
+**11:00 – 12:10** [Oral 6: Weakly Supervised Learning Guided by Activation Mapping Applied to a Novel Citrus Pest Benchmark](http://cvpr20.com/w57-oral-presentation-6/)<br/>
+**12:10 – 12:20** [Oral 7: Fine-Grained Recognition in High-throughput Phenotyping](http://cvpr20.com/w57-oral-presentation-7/)<br/>
+**12:20 – 12:30** [Oral 8: Climate Adaptation: Reliably Predicting from Imbalanced Satellite Data](http://cvpr20.com/w57-oral-presentation-8/)<br/>
 ***
-15:10 - 15:55 Poster Session<br/>
+**12:30 – 13:30** [Lunch Break](http://cvpr20.com/events/w57-opening-remarks/)
 ***
-15:55 - 16:10 Agriculture-Vision Prize Challenge Results Summary and Award Ceremony<br/>
-16:10 - 16:20 Challenge 1st Place Presentation<br/>
-16:20 - 16:30 Challenge 2nd Place Presentation<br/>
-16:30 - 16:40 Challenge 3rd Place Presentation<br/>
+**13:30 – 13:50** [Invited Talk 6: Towards Understanding Agricultural Systems at Scale using Machine Learning](http://cvpr20.com/event/w57-invited-talk-6/)
+
+Stefano Ermon (Stanford)
+
+**13:50 – 14:10** [Invited Talk 7: Interactive Object Segmentation (Live*)](http://cvpr20.com/events/w57-opening-remarks/)
+
+Yunchao Wei (University of Technology Sydney)
+
+**14:10 – 14:30** [Invited Talk 8: Farm Beats (Live*)](http://cvpr20.com/events/w57-opening-remarks/)
+
+Ranveer Chandra, Sudipta Sinha (Microsoft)
+
+**14:30 – 14:50** [Invited Talk 9: Enabling the African Farmer (Live*)](http://cvpr20.com/events/w57-opening-remarks/)
+
+Munther Dahleh (MIT)
+
+**14:50 – 15:10** [Invited Talk 10: (Live*)](http://cvpr20.com/events/w57-opening-remarks/)
+
+Zsolt Kira (Georgia Tech)
 ***
-16:40 - 17:20 Panel Discussion: Challenge & Opportunities for Computer Vision in Agriculture<br/>
-17:20 - 17:30 Closing Remark<br/>
-<br/>
+**15:10 – 15:55** [Poster Session 2](http://cvpr20.com/w57-poster-session-2/)
+***
+**15:55 – 16:10** [Agriculture-Vision Prize Challenge Results Summary](http://cvpr20.com/event/w57-challenge-summary/)
+
+**16:10 – 16:20** [Challenge Presentation 1: Residual DenseNet with Expert Network for Semantic Segmentation](http://cvpr20.com/event/w57-challenge-presentation-1/)
+
+**16:20 – 16:30** [Challenge Presentation 2: MSCG-Net Models for The 1st Agriculture-Vision Challenge](http://cvpr20.com/event/w57-challenge-presentation-2/)
+***
+**16:30 – 17:20** [Panel Discussion: Challenge & Opportunities for Computer Vision in Agriculture](http://cvpr20.com/event/w57-panel-discussion/)
+
+**Host:**<br/>
+Naira Hovakimyan (UIUC)
+
+**Panelists:**<br/>
+Sharath Pankanti (IBM T. J. Watson Research Center)<br/>
+Liangliang Cao (Google Research)<br/>
+Ranveer Chandra (Microsoft Azure Global)<br/>
+Sudipta Sinha (Microsoft)<br/>
+Munther Dahleh (MIT)<br/>
+Ed Delp (Purdue)<br/>
+Melba Crawford (Purdue)<br/>
+Jennifer Hobbs (Intelinair Inc.)<br/>
+Yunchao Wei (University of Technology Sydney)<br/>
+Alexander Schwing (UIUC)<br/>
+Stefano Ermon (Stanford)<br/>
+Zsolt Kira (Georgia Tech)<br/>
+David Wilson (Intelinair Inc.)<br/>
+Jim Yuan (Google X)<br/>
+***
+**17:20 – 17:30** [Closing Remarks](http://cvpr20.com/event/w57-closing-remarks/)
+
+Humphrey Shi (University of Oregon)
+
+Naira Hovakimyan (UIUC)
+***
 ### Paper Track
 
 - We accept papers related to Agriculture-Vision with a rigorous peer-review process with program committee members from  multiple research communities including computer vision, machine learning, image processing, remote sensing, agriculture etc.
