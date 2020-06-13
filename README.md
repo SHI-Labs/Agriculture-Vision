@@ -200,23 +200,23 @@ Humphrey Shi (University of Oregon)
 
 Naira Hovakimyan (UIUC)
 ***
-**08:40 – 09:00** [Invited Talk 1: Scaling Spatio-Temporal Analytics: A Case in Agricultural Insights](http://cvpr20.com/event/w57-invited-talk-1/)
+**08:40 – 09:00** [Invited Talk 1: Scaling Spatio-Temporal Analytics: A Case in Agricultural Insights](http://cvpr20.com/event/w57-invited-talk-1/) [(Talk materials here)](https://drive.google.com/drive/folders/1Cq9NB4xLh79eQUPqaS5OU9R3laCaLLA-?usp=sharing)
 
 Sharath Pankanti (IBM T.J. Watson Research Center)
 
-**09:00 – 09:20** [Invited Talk 2: Multi-modality Remote Sensing in High Throughput Phenotyping: Opportunities for Machine Learning](http://cvpr20.com/event/w57-invited-talk-2/)
+**09:00 – 09:20** [Invited Talk 2: Multi-modality Remote Sensing in High Throughput Phenotyping: Opportunities for Machine Learning](http://cvpr20.com/event/w57-invited-talk-2/) [(Talk materials here)](https://drive.google.com/drive/folders/1NWdfeeg_GjV_bbAeZFdg-qVxVPji5Z3c?usp=sharing)
 
 Melba M. Crawford, Edward J. Delp (Purdue)
 
-**09:20 – 09:40** [Invited Talk 3: Bridging Application and Research. Is agriculture just another application?](http://cvpr20.com/event/w57-invited-talk-3/)
+**09:20 – 09:40** [Invited Talk 3: Bridging Application and Research. Is agriculture just another application?](http://cvpr20.com/event/w57-invited-talk-3/) [(Talk materials here)](https://drive.google.com/drive/folders/1qCnwTO6zbRqNQzJlaU69uevD2yjprwMZ?usp=sharing)
 
 Jennifer Hobbs (IntelinAir Inc.)
 
-**09:40 – 10:00** [Invited Talk 4: Improving Visual and Speech Recognition on Out-Domain Data](http://cvpr20.com/event/w57-invited-talk-4/)
+**09:40 – 10:00** [Invited Talk 4: Improving Visual and Speech Recognition on Out-Domain Data](http://cvpr20.com/event/w57-invited-talk-4/) [(Talk materials here)](https://drive.google.com/drive/u/1/folders/1ILCMPIWKorVoNlqFtSu7T8NYZEcxT9ai)
 
 Liangliang Cao (Google Inc. and Umass)
 
-**10:00 – 10:20** [Invited Talk 5: Learning to Anticipate](http://cvpr20.com/event/w57-invited-talk-5/)
+**10:00 – 10:20** [Invited Talk 5: Learning to Anticipate](http://cvpr20.com/event/w57-invited-talk-5/) [(Talk materials here)](https://drive.google.com/drive/u/1/folders/13K0M_wOmVycd3Ocfccg1As0m8DihX7ts)
 
 Alex Schwing (UIUC)
 ***
@@ -233,19 +233,19 @@ Alex Schwing (UIUC)
 ***
 **12:30 – 13:30** [Lunch Break](http://cvpr20.com/events/w57-opening-remarks/)
 ***
-**13:30 – 13:50** [Invited Talk 6: Towards Understanding Agricultural Systems at Scale using Machine Learning](http://cvpr20.com/event/w57-invited-talk-6/)
+**13:30 – 13:50** [Invited Talk 6: Towards Understanding Agricultural Systems at Scale using Machine Learning](http://cvpr20.com/event/w57-invited-talk-6/) [(Talk materials here)](https://drive.google.com/drive/u/1/folders/1C1jZnT3xYWJkdzuj_JrUbwPxUDvlSEv_)
 
 Stefano Ermon (Stanford)
 
-**13:50 – 14:10** [Invited Talk 7: Interactive Object Segmentation (Live*)](http://cvpr20.com/events/w57-opening-remarks/)
+**13:50 – 14:10** [Invited Talk 7: Interactive Object Segmentation (Live*)](http://cvpr20.com/events/w57-opening-remarks/) [(Talk materials here)](https://drive.google.com/drive/u/1/folders/1mpfK029_9uqAOhfNIo6FoBBnA3MBForS)
 
 Yunchao Wei (University of Technology Sydney)
 
-**14:10 – 14:30** [Invited Talk 8: Farm Beats (Live*)](http://cvpr20.com/events/w57-opening-remarks/)
+**14:10 – 14:30** [Invited Talk 8: Farm Beats (Live*)](http://cvpr20.com/events/w57-opening-remarks/) [(Talk materials here)](https://drive.google.com/drive/u/1/folders/1Au-8KIEErZKB51l8EihlHOAbCtPfEGK8)
 
 Ranveer Chandra, Sudipta Sinha (Microsoft)
 
-**14:30 – 14:50** [Invited Talk 9: Enabling the African Farmer (Live*)](http://cvpr20.com/events/w57-opening-remarks/)
+**14:30 – 14:50** [Invited Talk 9: Enabling the African Farmer (Live*)](http://cvpr20.com/events/w57-opening-remarks/) [(Talk materials here)](https://drive.google.com/drive/u/1/folders/1W2IQxibLO8zr6a32QEG57ayr2Hdq9WNI)
 
 Munther Dahleh (MIT)
 
