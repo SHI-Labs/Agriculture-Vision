@@ -255,7 +255,7 @@ Zsolt Kira (Georgia Tech)
 ***
 **15:10 – 15:55** [Poster Session 2](http://cvpr20.com/w57-poster-session-2/)
 ***
-**15:55 – 16:10** [Agriculture-Vision Prize Challenge Results Summary](http://cvpr20.com/event/w57-challenge-summary/)
+**15:55 – 16:10** [Agriculture-Vision Prize Challenge Results Summary](http://cvpr20.com/event/w57-challenge-summary/) (Talk materials [here](https://drive.google.com/drive/folders/1LBz15UT58R-a-RcFlAR0BSu2mLujUSqE?usp=sharing))
 
 **16:10 – 16:20** [Challenge Presentation 1: Residual DenseNet with Expert Network for Semantic Segmentation](http://cvpr20.com/event/w57-challenge-presentation-1/)
 
