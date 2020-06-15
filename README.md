@@ -2,7 +2,7 @@
 
 Agriculture-Vision Dataset, Challenge and Workshop (CVPR 2020)
 
-A joint effort with many great collaborators to bring Agriculture and Computer Vision/AI communities together to benefit humanity! 
+A joint effort with many great collaborators to bring Agriculture and Computer Vision / AI communities together to benefit humanity! 
 
 ## Content
 
