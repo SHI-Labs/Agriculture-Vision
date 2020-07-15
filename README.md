@@ -24,7 +24,6 @@ A joint effort with many great collaborators to bring Agriculture and Computer V
 
 ## Papers:
 CVPR paper on Agriculture-Vision 
-
 [ArXiv](https://arxiv.org/abs/2001.01306), [CVPR 2020 open access](https://openaccess.thecvf.com/content_CVPR_2020/html/Chiu_Agriculture-Vision_A_Large_Aerial_Image_Database_for_Agricultural_Pattern_Analysis_CVPR_2020_paper.html)
 ```BibTex
 @article{chiu2020agriculture,
@@ -43,7 +42,6 @@ year = {2020}
 }
 ```
 CVPR Workshop paper on the 1st Agriculture-Vision Challenge (challenge dataset, methods and results) 
-
 [ArXiv](https://arxiv.org/abs/2004.09754), [CVPR 2020 open access](https://openaccess.thecvf.com/content_CVPRW_2020/html/w5/Chiu_The_1st_Agriculture-Vision_Challenge_Methods_and_Results_CVPRW_2020_paper.html)
 ```BibTex
 @article{chiu20201st,
