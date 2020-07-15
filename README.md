@@ -23,7 +23,7 @@ A joint effort with many great collaborators to bring Agriculture and Computer V
     * [Accepted Posters](#accepted-posters)
 
 ## Papers:
-CVPR paper on Agriculture-Vision [ArXiv](https://arxiv.org/abs/2001.01306)
+CVPR paper on Agriculture-Vision [ArXiv](https://arxiv.org/abs/2001.01306), [CVPR 2020 open access](https://openaccess.thecvf.com/content_CVPR_2020/html/Chiu_Agriculture-Vision_A_Large_Aerial_Image_Database_for_Agricultural_Pattern_Analysis_CVPR_2020_paper.html)
 ```BibTex
 @article{chiu2020agriculture,
   title={Agriculture-Vision: A Large Aerial Image Database for Agricultural Pattern Analysis},
@@ -31,14 +31,30 @@ CVPR paper on Agriculture-Vision [ArXiv](https://arxiv.org/abs/2001.01306)
   journal={arXiv preprint arXiv:2001.01306},
   year={2020}
 }
+
+@InProceedings{Chiu_2020_CVPR,
+author = {Chiu, Mang Tik and Xu, Xingqian and Wei, Yunchao and Huang, Zilong and Schwing, Alexander G. and Brunner, Robert and Khachatrian, Hrant and Karapetyan, Hovnatan and Dozier, Ivan and Rose, Greg and Wilson, David and Tudor, Adrian and Hovakimyan, Naira and Huang, Thomas S. and Shi, Honghui},
+title = {Agriculture-Vision: A Large Aerial Image Database for Agricultural Pattern Analysis},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+}
 ```
-CVPR Workshop paper on the 1st Agriculture-Vision Challenge (challenge dataset, methods and results) [ArXiv](https://arxiv.org/abs/2004.09754)
+CVPR Workshop paper on the 1st Agriculture-Vision Challenge (challenge dataset, methods and results) [ArXiv](https://arxiv.org/abs/2004.09754), [CVPR 2020 open access](https://openaccess.thecvf.com/content_CVPRW_2020/html/w5/Chiu_The_1st_Agriculture-Vision_Challenge_Methods_and_Results_CVPRW_2020_paper.html)
 ```BibTex
 @article{chiu20201st,
   title={The 1st Agriculture-Vision Challenge: Methods and Results},
   author={Chiu, Mang Tik and Xu, Xingqian and Wang, Kai and Hobbs, Jennifer and Hovakimyan, Naira and Huang, Thomas S. and Shi, Honghui and others},
   journal={arXiv preprint arXiv:2004.09754},
   year={2020}
+}
+
+@InProceedings{Chiu_2020_CVPR_Workshops,
+author = {Chiu, Mang Tik and Xu, Xingqian and Wang, Kai and Hobbs, Jennifer and Hovakimyan, Naira and Huang, Thomas S. and Shi, Honghui},
+title = {The 1st Agriculture-Vision Challenge: Methods and Results},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+month = {June},
+year = {2020}
 }
 ```
 ## Dataset
