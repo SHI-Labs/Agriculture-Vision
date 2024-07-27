@@ -76,7 +76,7 @@ This dataset contains six types of annotations: Cloud shadow, Double plant, Plan
 Each field image has a file name in the format of (**field id**)_(**x1**)-(**y1**)-(**x2**)-(**y2**).(**jpg**/**png**). Each field id uniquely identifies the farmland that the image is cropped from, and (x1, y1, x2, y2) is a 4-tuple indicating the position in which the image is cropped. Please refer to our paper for more details regarding how we construct the dataset.
 ### Download
 
-The challenge dataset contains images, boundaries and masks for train, val and test set. It also contains labels for the train and val set only. The 2021 new dataset .tar.gz file is around 20 GB. Please [visit this page](https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021) to get access. By downloading or using the dataset, user signifies its agreement to [Agriculture-Vision Workshop Terms and Conditions](https://drive.google.com/file/d/1tiJpMjcr8mlF1pYU-6U6ZY5jnNgbn9XF/view?usp=sharing). 
+The challenge dataset contains images, boundaries and masks for train, val and test set. It also contains labels for the train and val set only. The 2021 new dataset .tar.gz file is around 20 GB. Please visit [our website](https://www.agriculture-vision.com/agriculture-vision-2021/dataset-2021) or [our huggingface page](https://huggingface.co/datasets/shi-labs/Agriculture-Vision) to get access. By downloading or using the dataset, user signifies its agreement to [Agriculture-Vision Workshop Terms and Conditions](https://drive.google.com/file/d/1tiJpMjcr8mlF1pYU-6U6ZY5jnNgbn9XF/view?usp=sharing). 
 
 ## Evaluation
 
